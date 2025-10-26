@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "React Fundamentals",
+    "category": "Frontend",
+    "level": 3,
+    "points": 75,
+    "maxPoints": 100,
+    "completed": false,
+    "description": "Master React components, hooks, and state management"
+  },
+  {
+    "id": 2,
+    "name": "CSS Grid & Flexbox",
+    "category": "Frontend",
+    "level": 4,
+    "points": 90,
+    "maxPoints": 100,
+    "completed": true,
+    "description": "Create responsive layouts with modern CSS"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript ES6+",
+    "category": "Frontend",
+    "level": 5,
+    "points": 100,
+    "maxPoints": 100,
+    "completed": true,
+    "description": "Advanced JavaScript features and patterns"
+  },
+  {
+    "id": 4,
+    "name": "Node.js Basics",
+    "category": "Backend",
+    "level": 2,
+    "points": 40,
+    "maxPoints": 100,
+    "completed": false,
+    "description": "Build server-side applications with Node.js"
+  },
+  {
+    "id": 5,
+    "name": "REST API Design",
+    "category": "Backend",
+    "level": 3,
+    "points": 65,
+    "maxPoints": 100,
+    "completed": false,
+    "description": "Design and implement RESTful APIs"
+  },
+  {
+    "id": 6,
+    "name": "MongoDB",
+    "category": "Backend",
+    "level": 2,
+    "points": 50,
+    "maxPoints": 100,
+    "completed": false,
+    "description": "NoSQL database fundamentals"
+  },
+  {
+    "id": 7,
+    "name": "TypeScript",
+    "category": "Frontend",
+    "level": 3,
+    "points": 70,
+    "maxPoints": 100,
+    "completed": false,
+    "description": "Type-safe JavaScript development"
+  },
+  {
+    "id": 8,
+    "name": "Git & GitHub",
+    "category": "DevOps",
+    "level": 4,
+    "points": 85,
+    "maxPoints": 100,
+    "completed": true,
+    "description": "Version control and collaboration"
+  },
+  {
+    "id": 9,
+    "name": "Docker Basics",
+    "category": "DevOps",
+    "level": 1,
+    "points": 25,
+    "maxPoints": 100,
+    "completed": false,
+    "description": "Containerization fundamentals"
+  },
+  {
+    "id": 10,
+    "name": "PostgreSQL",
+    "category": "Backend",
+    "level": 3,
+    "points": 60,
+    "maxPoints": 100,
+    "completed": false,
+    "description": "Relational database management"
+  },
+  {
+    "id": 11,
+    "name": "Vue.js",
+    "category": "Frontend",
+    "level": 2,
+    "points": 45,
+    "maxPoints": 100,
+    "completed": false,
+    "description": "Progressive JavaScript framework"
+  },
+  {
+    "id": 12,
+    "name": "CI/CD Pipelines",
+    "category": "DevOps",
+    "level": 2,
+    "points": 35,
+    "maxPoints": 100,
+    "completed": false,
+    "description": "Automated deployment workflows"
+  }
+]
