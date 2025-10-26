@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -43,3 +44,7 @@ The project is designed for educational purposes and aligns with interactive lea
 1. Clone the repository or download the ZIP
 ```bash
 git clone <your-repo-url>
+=======
+# Skill-Tracker
+Mini Skill Tracker is a frontend-only React app using JavaScript and mock JSON to track learning progress. Users can mark skills as completed, filter by category, view progress bars, and see interactive charts. Features include responsive design, hover effects, and optional gamification badges.
+>>>>>>> 09935e96a1af72f5fb1e36224d2196c46cfcce08
